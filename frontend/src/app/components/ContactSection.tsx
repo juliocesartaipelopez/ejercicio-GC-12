@@ -5,7 +5,7 @@ const ContactSection = () => {
     <section className="bg-black text-white min-h-screen flex flex-col">
 
       <div className="flex-grow flex flex-col items-center justify-center w-full">
-        <h1 className="text-3xl font-bold mb-8">Let's talk</h1>
+        <h1 className="text-3xl font-bold mb-8">Lets talk</h1>
         <div className="w-10/12 max-w-5xl">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 w-full py-8">
 
